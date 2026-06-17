@@ -1,13 +1,7 @@
-1. 🛠️ CSE Student | Exploring the world of code.
+🎓 Computer Science Engineering Student | Chandigarh University
 
+💻 Skilled in C++, Python, Git, and PostgreSQL
 
-2. Learning GitHub, one commit at a time 💬
+📚 Currently focusing on DSA, Databases, and Web Development
 
-
-3. 🌱 Currently learning: Web Dev | Open Source | Python
-
-
-4. 👩‍🎓 Self-taught + College-taught + Curious brain
-
-
-5. 💡 Just getting started but dreaming big!
+🚀 Passionate about learning, building, and contributing to open source
